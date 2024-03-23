@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Eu uso..</h1>
+    <h1 align="center">I use..</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,9 +20,10 @@
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    </div>
-    
+    <br>
   
-  <h1 align="center">Bora conversar</h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Let's%2C+get+talk;This+is+my+links;So+call+me;%3A)](https://git.io/typing-svg)
+
   
    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank">
