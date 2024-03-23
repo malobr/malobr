@@ -1,9 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo;I'm+21+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo;I'm+21+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <div>
   
-  ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=malobr&theme=aura&show_icons=true)
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malobr&layout=compact&langs_count=16&theme=aura"/>
+  ![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=malobr&theme=neon&show_icons=true)
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malobr&layout=compact&langs_count=16&theme=neon"/>
 </div>
 <br>
 
