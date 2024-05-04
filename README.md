@@ -5,13 +5,14 @@
   
  
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/midnight_purple/0-profile-details.svg" alt="Profile Details" style="display:inline-block; width:45%; margin-right:5%; height:200px;">
   <img src="https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/midnight_purple/1-repos-per-language.svg" alt="Repos Per Language" style="display:inline-block; width:45%; margin-right:5%; height:200px;">
   <img src="https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/midnight_purple/2-most-commit-language.svg" alt="Most Commit Language" style="display:inline-block; width:45%; margin-right:5%; height:200px;">
   <img src="https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/midnight_purple/3-stats.svg" alt="Stats" style="display:inline-block; width:45%; margin-right:5%; height:200px;">
   <img src="https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/midnight_purple/4-productive-time.svg" alt="Productive Time" style="display:inline-block; width:45%; height:200px;">
-</div>
+</p>
+
 
 
 
