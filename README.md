@@ -52,6 +52,13 @@
  
 </div>
 
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malobr&bg_color=000000&color=ffffff&line=ff00d0&point=39e7f3&area=true&hide_border=true)](https://github.com/malobr/github-readme-activity-graph)
+  
+![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   
 <br>
@@ -65,9 +72,3 @@
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
-
-<h1></h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malobr&bg_color=000000&color=ffffff&line=ff00d0&point=39e7f3&area=true&hide_border=true)](https://github.com/malobr/github-readme-activity-graph)
-  
-![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake.svg)
