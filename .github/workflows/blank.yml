@@ -29,7 +29,7 @@ jobs:
           github_user_name:  ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=black
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
@@ -63,3 +63,5 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
+
+          
