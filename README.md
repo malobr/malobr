@@ -62,10 +62,6 @@
  
 </div>
 
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=malobr&bg_color=000000&color=ffffff&line=ff00d0&point=39e7f3&area=true&hide_border=true)](https://github.com/malobr/github-readme-activity-graph)
   
 ![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake.svg)
 
