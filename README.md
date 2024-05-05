@@ -83,12 +83,8 @@
 
 <h1></h1>
 
-<p align="center"><b><span class="purple-text">Visitors Count</span></b></p>
-<style>
-.purple-text {
-    color: purple;
-}
-</style>
+<p align="center"><b>![Visitors Count](https://img.shields.io/badge/Visitors_Count-purple?style=for-the-badge)</b></p>
+
 
 
 
