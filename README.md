@@ -83,7 +83,7 @@
 
 <h1></h1>
 
-<p align="center"><b>![Visitors Count](https://img.shields.io/badge/Visitors_Count-purple?style=for-the-badge)</b></p>
+<p align="center"><b><font color="purple">Visitors Count</font></b></p>
 
 
 
