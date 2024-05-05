@@ -83,7 +83,7 @@
 
 <h1></h1>
 
-<h1 align="center">Visitors Count</h1>
+<p align="center">Visitors Count</p>
 
 
 
