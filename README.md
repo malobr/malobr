@@ -83,7 +83,7 @@
 
 <h1></h1>
 
-<p align="center"><b><font color="purple">Visitors Count</font></b></p>
+# Visitors Count <br/>
 
 
 
