@@ -83,7 +83,7 @@
 
 <h1></h1>
 
- <h2 align="center">Visitors Count...</h2>
+<p align="center"><b><font color="purple">Visitors Count</font></b></p>
 
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
