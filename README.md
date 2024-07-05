@@ -62,22 +62,22 @@
    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq" target="blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://discord.com/channels/@marceloo3143" target="blank">
+   <a href="https://discord.com/channels/@marceloo3143" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
    <a href="https://www.instagram.com/malo_t_c/" target="blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
-   <a href="https://www.linkedin.com/in/marcelo-tomás-a92b16231/" target="blank">
+   <a href="https://www.linkedin.com/in/marcelo-tomás-a92b16231/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
    </a>
-   <a href="https://steamcommunity.com/profiles/76561199467676368/" target="blank">
+   <a href="https://steamcommunity.com/profiles/76561199467676368/" target="_blank">
      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" >
    </a>
-   <a href="" target="blank">
+   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
    </a>
-   <a href="" target="blank">
+   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" >
    </a>
  
