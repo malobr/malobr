@@ -1,3 +1,4 @@
+<!--<img align="right" src="https://komarev.com/ghpvc/?username=malobr&color=ff69b4"><br>-->
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo;I'm+21+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
@@ -40,12 +41,17 @@
     <h1 align="center">I use..</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+    <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+    <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
    </div>
   <br>
     <br>
@@ -54,29 +60,33 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talk;This+is+my+links;So+Get+In+Touch+!;)](https://git.io/typing-svg)
 
   
-   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq" target="blank">
+   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
    </a>
-   <a href="https://discord.com/channels/@marceloo3143" target="blank">
+   <a href="https://discord.com/channels/@marceloo3143" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
-   <a href="https://www.instagram.com/malo_t_c/" target="blank">
+   <a href="https://www.instagram.com/malo_t_c/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
-   <a href="https://www.linkedin.com/in/marcelo-tomás-a92b16231/" target="blank">
+   <a href="https://www.linkedin.com/in/marcelo-tomás-a92b16231/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
    </a>
-   <a href="https://steamcommunity.com/profiles/76561199467676368/" target="blank">
+   <a href="https://steamcommunity.com/profiles/76561199467676368/" target="_blank">
      <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" >
    </a>
-   <a href="" target="blank">
+   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
    </a>
-   <a href="" target="blank">
+   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" >
    </a>
  
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!--![Ahutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/malobr?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true)-->
 
   
 ![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake.svg)
