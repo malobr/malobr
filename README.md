@@ -54,7 +54,6 @@
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" height="30" width="40" alt="insomnia-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg">
     <img align="center" height="30" width="40" alt="postman-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
    </div>
   <br>
