@@ -39,6 +39,7 @@
 
 
 
+<div  align="center"> 
 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -60,9 +61,11 @@
     <img align="center" height="30" width="40" alt="docker-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" height="30" width="40" alt="postman-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
    </div>
+   </div>
   <br>
     <br>
 
+<div  align="center"> 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talk;This+is+my+links;So+Get+In+Touch+!;)](https://git.io/typing-svg)
 
