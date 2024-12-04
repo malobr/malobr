@@ -1,6 +1,7 @@
 <!--<img align="right" src="https://komarev.com/ghpvc/?username=malobr&color=ff69b4"><br>-->
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo;I'm+21+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo%3B+I'm+21+years+old%3B+I'm+a+Software+Developer%3B+I'm+from+Brazil%3B+welcome%3A)](https://git.io/typing-svg)
+
 
 <div>
   
@@ -65,7 +66,8 @@
 
 <div  align="center"> 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talk;This+is+my+links;So+Get+In+Touch+!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talking;This+are+my+links;So+get+in+touch+!)](https://git.io/typing-svg)
+
 
   
    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq" target="_blank">
