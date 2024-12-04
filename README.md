@@ -97,10 +97,8 @@
 <!--![Ahutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/malobr?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true)-->
 
   
-## Toggle Theme: 
 
-[![Switch to Dark Theme](https://img.shields.io/badge/Theme-Dark-blue?style=for-the-badge&logo=github)](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-dark.svg)
-[![Switch to Light Theme](https://img.shields.io/badge/Theme-Light-blue?style=for-the-badge&logo=github)](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake.svg)
+
 
 ![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -111,5 +109,4 @@
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
-
 
