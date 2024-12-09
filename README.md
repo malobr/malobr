@@ -27,11 +27,7 @@
 [![](https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/jolly/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/jolly/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<div  align="center"> 
-<a href="https://streak-stats.demolab.com?user=crlnvls&theme=radical">
-  <img align="center" src="https://streak-stats.demolab.com/?user=malobr&theme=radical" width=420/>
-</a>
-</div>
+
 
 
 
