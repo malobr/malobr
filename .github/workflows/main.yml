@@ -29,7 +29,7 @@ jobs:
         with:
           github_user_name: malobr
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-anotherDark.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
