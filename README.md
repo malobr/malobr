@@ -96,7 +96,7 @@
 
 
 
-![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-anotherDark.svg)
 
 <h1></h1>
 
