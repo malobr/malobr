@@ -55,6 +55,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talking;This+are+my+links;So+get+in+touch+!)](https://git.io/typing-svg)
 
+<h1 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="75" height="75"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
+</h1>
 
   
    <a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSPFrLKLKtrXtXcVcxcfMrwCpdQWZFwFdNWRfMwZhZFHPhbsDwxjqnrHSfhFLPcqJndzFsfq" target="_blank">
