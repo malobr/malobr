@@ -100,6 +100,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
 
+<!--Contador de Visitantes-->
 <p align="center"><b>Visitors Count</b></p> 
 
 
