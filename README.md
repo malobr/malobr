@@ -95,6 +95,7 @@
 ![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-dark.svg)
 <!--![snake gif](https://github.com/malobr/malobr/blob/output/github-contribution-grid-snake-anotherDark.svg)-->
 
+<!--Gif do Gato Programador-->
 <h1 align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
