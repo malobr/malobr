@@ -7,7 +7,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo%3B+I'm+22+years+old%3B+I'm+a+Software+Developer%3B+I'm+from+Brazil%3B+welcome%3A)](https://git.io/typing-svg)
 
 <div>
-  
+
+<!--Cards... com informacoes-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,6 +36,8 @@
 
 <div  align="center"> 
 
+
+<!--Linguagfens e Frameworks que eu uso...-->
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">I use..</h1>
