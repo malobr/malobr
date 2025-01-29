@@ -37,7 +37,7 @@
 <div  align="center"> 
 
 
-<!--Linguagfens e Frameworks que eu uso...-->
+<!--Linguagens e Frameworks que eu uso...-->
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">I use..</h1>
@@ -107,10 +107,10 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
 
-<!--Contador de Visitantes-->
+<!-- Mensagem Contador de Visitantes-->
 <p align="center"><b>Visitors Count</b></p> 
 
-
+<!--Contador de visitantes-->
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 
