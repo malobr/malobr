@@ -60,6 +60,7 @@
 
 <div  align="center"> 
 
+<!--Mensagem dizendo minhas formas de contato-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Let's+get+talking;This+are+my+links;So+get+in+touch+!)](https://git.io/typing-svg)
 
 
