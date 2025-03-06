@@ -2,6 +2,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=malobr&color=ff69b4"><br>
 -->
 
+<a href="https://github.com/malobr">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=ARS+EST+CELARE+ARTEM.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+</a>
+
 
 <!--Mensagem de Boas Vindas-->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=c8ace4&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Marcelo%3B+I'm+22+years+old%3B+I'm+a+Software+Developer%3B+I'm+from+Brazil%3B+welcome%3A)](https://git.io/typing-svg)
@@ -48,18 +52,18 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">I use..</h1>
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="yarn-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-    <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-    <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    <img align="center" height="30" width="40" alt="postman-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+      <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" height="30" width="40" alt="sass-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+      <img align="center" height="30" width="40" alt="tailwind-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+      <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" height="30" width="40" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" height="30" width="40" alt="yarn-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+      <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+      <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+      <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img align="center" height="30" width="40" alt="postman-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
    </div>
    </div>
   <br>
@@ -111,13 +115,17 @@
 
 <!--Gif do Gato Programador-->
 <h1 align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
 
 <!-- Mensagem Contador de Visitantes-->
 <p align="center"><b>Visitors Count</b></p> 
 
 <!--Contador de visitantes-->
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+</p> 
 
+<a href="https://github.com/malobr">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
+</a>
