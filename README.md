@@ -5,6 +5,23 @@
 <a href="https://github.com/malobr">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=ARS+EST+CELARE+ARTEM.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 </a>
+<table width="100%">
+  <tr>
+    <td align="left" style="width: 20%;">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+    </td>
+    <td align="center" style="width: 60%;">
+      <h3>A little more about me...</h3>
+    </td>
+    <td align="right" style="width: 20%;">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 <!--Mensagem de Boas Vindas-->
