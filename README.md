@@ -2,22 +2,24 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=malobr&color=ff69b4"><br>
 -->
 
-<a href="https://github.com/malobr">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=ARS+EST+CELARE+ARTEM.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
-</a>
-<table width="100%">
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td align="left" style="width: 20%;">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+    <td align="left">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
     </td>
-    <td align="center" style="width: 60%;">
-      <h3>A little more about me...</h3>
+    <td align="center">
+      <h2 style="font-size: 28px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A little more about me... &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     </h2>
     </td>
-    <td align="right" style="width: 20%;">
-      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
+    <td align="right">
+      <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="100">
     </td>
   </tr>
 </table>
+<a href="https://github.com/malobr">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=ARS+EST+CELARE+ARTEM.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+</a>
+
 
 
 
