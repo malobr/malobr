@@ -131,12 +131,7 @@
 </h1>
 
 <!-- Mensagem Contador de Visitantes-->
-<p align="center"><b>Visitors Count</b></p> 
 
-<!--Contador de visitantes-->
-<p align="center">
-  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmalobr&s=50&c=a079c7&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
-</p> 
 
 <a href="https://github.com/malobr">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
