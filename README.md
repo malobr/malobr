@@ -130,8 +130,6 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
 
-<!-- Mensagem Contador de Visitantes-->
-
 
 <a href="https://github.com/malobr">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=55"/>
