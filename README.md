@@ -70,9 +70,9 @@
       <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" height="30" width="40" alt="react-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" height="30" width="40" alt="vue-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-      <!--<img align="center" height="30" width="40" alt="yarn-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">-->
-      <!--<img align="center" height="30" width="40" alt="npm-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">-->
-      <!--<img align="center" height="30" width="40" alt="pnpm-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg">-->
+      <img align="center" height="30" width="40" alt="yarn-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
+      <img align="center" height="30" width="40" alt="npm-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
+      <img align="center" height="30" width="40" alt="pnpm-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg">
       <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" height="30" width="40" alt="php-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
       <img align="center" height="30" width="40" alt="laravel-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
