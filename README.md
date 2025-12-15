@@ -16,7 +16,7 @@
   </tr>
 </table>
 <a href="https://github.com/malobr">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VITA%20AD%20HOC%20REDIGITUR:%20NIHIL%20SCIRE%20ET%20TAMEN%20AGERE.&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=header&text=VITA%20AD%20HOC%20REDIGITUR:%20NIHIL%20SCIRE%20ET%20TAMEN%20AGERE...&fontSize=30&fontColor=6474B9&animation=twinkling&fontAlignY=35"/>
 </a>
 
 
