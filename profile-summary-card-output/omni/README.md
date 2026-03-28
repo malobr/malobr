@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/malobr/malobr/main/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
